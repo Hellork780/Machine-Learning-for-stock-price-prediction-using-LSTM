@@ -25,8 +25,11 @@ This project analyzes Reliance Industries' stock price trends using LSTM (Long S
 🔹 Technologies Used
 
 📌 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 📌 Machine Learning (TensorFlow, Keras)
+
 📌 LSTM (Deep Learning Model for Time-Series Prediction)
+
 📌 Google Colab for Implementation
 
 
@@ -50,6 +53,7 @@ pip install pandas numpy matplotlib seaborn tensorflow keras
 🔹 Results & Insights
 
 📈 The LSTM model effectively predicts Reliance stock prices, capturing long-term trends.
+
 📉 However, stock prices depend on market conditions, so predictions should be used cautiously.
 
 
@@ -58,5 +62,7 @@ pip install pandas numpy matplotlib seaborn tensorflow keras
 🔹 Future Improvements
 
 🔹 Add more features (e.g., news sentiment, macroeconomic indicators).
-🔹 Try other ML models like Random Forest, ARIMA, or Transformer-based models.
+
+🔹 Try other ML models like Random Forest, ARIMA, or Transformer-based models
+
 🔹 Implement real-time stock prediction with live data.
