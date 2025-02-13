@@ -10,9 +10,13 @@ This project analyzes Reliance Industries' stock price trends using LSTM (Long S
 🔹 Features & Methodology
 
 ✔ Data Collection: Collected historical stock price data of Reliance Industries.
+
 ✔ Data Preprocessing: Cleaned and transformed data using Pandas & NumPy.
+
 ✔ Exploratory Data Analysis (EDA): Visualized trends using Matplotlib & Seaborn.
+
 ✔ Model Training: Used LSTM (Recurrent Neural Network) for stock price prediction.
+
 ✔ Evaluation: Compared model predictions with actual stock prices.
 
 
